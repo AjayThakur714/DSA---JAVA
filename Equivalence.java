@@ -7,7 +7,7 @@ public class Equivalence {
             {
                 System.out.println(n1+ " is equal to "+n2);
             }
-            else
+            else 
             {
                 if(n1>n2)
                 {
